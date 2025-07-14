@@ -29,6 +29,21 @@ This will launch a development server using **Vite**. You can open the app in yo
 http://localhost:5173
 ```
 
+## Features
+Authentication: Login, registration, logout, persistent session with localStorage.
+
+Roles:
+
+Administrator: CRUD for users and courses, access to the dashboard.
+
+User: View events, enroll/unenroll, and view "My Enrollments."
+Path Protection: Only authorized users can access each page.
+
+Tables and Forms: Manage users and courses from the dashboard (admin).
+
+Enrollments: Users can enroll/unenroll in courses.
+
+Validations: Validated forms (required fields, email, password).
 
 
 ##  Technologies used
