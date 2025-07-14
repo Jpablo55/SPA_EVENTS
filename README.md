@@ -58,6 +58,8 @@ Validations: Validated forms (required fields, email, password).
 
 
 Nombre: Juan Pablo Jiménez Cardona
+
 Correo: juanpablojimenezc@outlook.com
+
 Clan: Lovelace
 
