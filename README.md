@@ -1,6 +1,6 @@
 # SPA - EVENTS
 
-This project is a single page application (SPA) built with pure JavaScript and Vite as the development environment.
+This project is a single page application (SPA) built with pure JavaScript and Vite as the development environment. It is an event management system, both for the administrator (when creating, editing, and deleting events) and for the user (when booking and canceling reservations).
 
 ##  First Steps
 
