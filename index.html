@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="./css/about.css">
+    <link rel="stylesheet" href="../css/books.css"/>
+    <link rel="stylesheet" href="../css/add_book.css" />
+</head>
+
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar"  id="sidebar">
+        <header class="sidebar-header">
+            <h1><a href="/home" data-link>Events</a></h1>
+            <div class="profile">
+                <img  alt="Admin" id="changePicture"/>
+                <p id="nameUser"></p>
+                <span id="role">Admin</span>
+            </div>
+        </header>
+        <nav>
+            <a href="/books" data-link><img src="./imgs/icons/users-w.svg" alt="Users Icon">Events</a>
+            <a href="/add_book" data-link id="addBook"><img src="./imgs/icons/user_add-w.svg" alt="New Users Icon">New events</a>
+            <a href="/my_events" data-link id="userBooksLink" style="display: none;"><img src="./imgs/icons/my_books.png" alt="My Events Icon">Enrollments</a>
+        </nav>
+        <button id="logout"> Logout</button>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="container">
+        <div id="content" class="content">
+            <h1>Events SPA</h1>
+            
+            <section class="section-main">
+                <h2>Main Features</h2>
+                <ul>
+                    <li>View users</li>
+                    <li>Create new users</li>
+                    <li>Edit and delete users</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <script type="module" src="./js/script.js"></script>
+</body>
+</script>
+</html>

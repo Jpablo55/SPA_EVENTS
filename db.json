@@ -1,0 +1,141 @@
+{
+  "books": [
+    {
+      "eventName": "Cien años de soledadd",
+      "description": "Gabriel García Márquezz",
+      "isbn": "9780060883287",
+      "date": "08-Dec-2021",
+      "enrollmentBy": [
+        "Daniela"
+      ],
+      "capacity": "12",
+      "id": "1"
+    },
+    {
+      "eventName": "El Principito",
+      "description": "Antoine de Saint-Exupéry",
+      "isbn": "43490929306035",
+      "date": "23-Jun-2006",
+      "enrollmentBy": [
+        "Juanito",
+        "Daniela"
+      ],
+      "capacity": "12",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "eventName": "Don Quijote de la Mancha",
+      "description": "Miguel de Cervantes",
+      "isbn": "41026344162681",
+      "date": "20-Dec-2001",
+      "capacity": "12",
+      "enrollmentBy": []
+    },
+    {
+      "id": "4",
+      "eventName": "Crónica de una Muerte Anunciada",
+      "description": "Gabriel García Márquez",
+      "isbn": "34271219218338",
+      "date": "05-Aug-1998",
+      "capacity": "12",
+      "enrollmentBy": []
+    },
+    {
+      "id": "5",
+      "eventName": "Los Juegos del Hambre",
+      "description": "Suzanne Collins",
+      "isbn": "92378515213034",
+      "date": "14-Jul-2025",
+      "capacity": "12"
+    },
+    {
+      "id": "6",
+      "eventName": "Harry Potter y la piedra filosofal",
+      "description": "J.K. Rowling",
+      "isbn": "28364418437285",
+      "date": "17-Jun-2025",
+      "capacity": "12"
+    },
+    {
+      "id": "7",
+      "eventName": "Matilda",
+      "description": "Roald Dahl",
+      "isbn": "45374200545365",
+      "date": "17-Feb-2009",
+      "capacity": "12"
+    },
+    {
+      "id": "8",
+      "eventName": "Alicia en el País de las Maravillas",
+      "description": "Lewis Carroll",
+      "isbn": "32705144002038",
+      "date": "29-Nov-2017",
+      "capacity": "12",
+      "enrollmentBy": []
+    },
+    {
+      "eventName": "19843",
+      "description": "George Orwell",
+      "isbn": "26715663180074",
+      "date": "11-Jul-2025",
+      "enrollmentBy": [],
+      "capacity": "11",
+      "id": "10"
+    },
+    {
+      "id": "13",
+      "eventName": "aaaa",
+      "description": "aa",
+      "isbn": "46873458691825",
+      "date": "10-Oct-1000",
+      "capacity": "15"
+    },
+    {
+      "id": "15",
+      "eventName": "Wall e e",
+      "description": "141",
+      "isbn": "31922085489782",
+      "date": "01-Feb-5021",
+      "capacity": "50"
+    },
+    {
+      "id": "828a",
+      "eventName": "Expo bonzai ",
+      "description": "Bonzais",
+      "isbn": "40449144109466",
+      "date": "10-Aug-2025",
+      "capacity": "2000"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "email": "adminsupremo@eventos.com",
+      "name": "Pedrosky",
+      "role": "Admin",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "email": "user@eventos.com",
+      "name": "Daniela",
+      "role": "User",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "email": "user2@eventos.com",
+      "name": "Roberto",
+      "role": "User",
+      "password": "1234"
+    },
+    {
+      "id": "749d",
+      "email": "juanito@gmail.com",
+      "name": "Juanito",
+      "role": "User",
+      "password": "1234"
+    }
+  ]
+}
