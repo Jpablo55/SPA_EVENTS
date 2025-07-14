@@ -57,3 +57,7 @@ Validations: Validated forms (required fields, email, password).
 - `npm run dev`: Starts the development server with Vite
 
 
+Nombre: Juan Pablo Jiménez Cardona
+Correo: juanpablojimenezc@outlook.com
+Clan: Lovelace
+
