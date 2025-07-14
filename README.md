@@ -1,53 +1,44 @@
-# SPA con Vite
+# SPA - EVENTS
 
-Este proyecto es una Single Page Application (SPA) construida con JavaScript puro y Vite como entorno de desarrollo.
+This project is a single page application (SPA) built with pure JavaScript and Vite as the development environment.
 
-##  Comenzar
+##  First Steps
 
-### 1. Clonar el repositorio
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Riwi-io-Medellin/spa.git
-cd spa
+git clone https://github.com/Jpablo55/SPA_EVENTS.git
+cd SPA_EVENTS
 ```
 
-### 2. Instalar dependencias
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Levantar el servidor de desarrollo
+### 3. Starting the development server
 
 ```bash
 npm run dev
 ```
 
-Esto iniciará un servidor de desarrollo usando **Vite**. Puedes abrir la app en tu navegador en:
+This will launch a development server using **Vite**. You can open the app in your browser at:
 
 ```
 http://localhost:5173
 ```
 
-##  Estructura del proyecto
 
-```
-spa/
-├── index.html
-├── script.js
-├── styles.css
-├── package.json
-└── ...
-```
 
-##  Tecnologías usadas
+##  Technologies used
 
-- **JavaScript**: Lógica principal de la SPA
-- **Vite**: Empaquetador rápido para desarrollo moderno
-- **HTML y CSS**: Estructura y estilos de la interfaz
+- **JavaScript**: Core SPA logic
+- **Vite**: Rapid packager for modern development
+- **HTML and CSS**: Interface structure and styles
 
-##  Scripts disponibles
+## Available Scripts
 
-- `npm run dev`: Inicia el servidor de desarrollo con Vite
+- `npm run dev`: Starts the development server with Vite
 
 
